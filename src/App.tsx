@@ -8,7 +8,7 @@ const App: React.FC = () => {
             <header className="App-header">
                 <img src={logo} className="App-logo" alt="logo" />
                 <p>Hello World</p>
-				<p>Hi I'm Miko</p>
+                <p>Hi I am Miko</p>
                 <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
                     Learn React
                 </a>
